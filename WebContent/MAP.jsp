@@ -16,7 +16,7 @@
 		</header>
 		<img src="images\logo.jpg" title="d.jpg" width="200px">
 		<div id="map"></div>
-		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDMVJi__GAPFnrRpFDq1XLzi0O-Mn9MibA&callback=initMap"
+		<script async defer src="https://maps.googleapis.com/maps/api/js?key=키값"
   type="text/javascript"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script> 
 	<script src="MAP.js" type="text/javascript"></script>
